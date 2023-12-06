@@ -1,5 +1,5 @@
 # Image-Analysis-
-Author: u5504461 
+Author: 5504461 
 Date: December 2023 
 
 The code was written to analyse data acquired by running ImageJ script for counting the number of motors on each microtubule in time. 
